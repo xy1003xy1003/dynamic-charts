@@ -2,5 +2,5 @@
 init
 
 # highcharts API
-https://api.highcharts.com/highcharts/
+https://api.highcharts.com/highcharts/ 
 https://api.hcharts.cn/
